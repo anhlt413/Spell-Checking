@@ -1,1 +1,1 @@
-Heavily inspired by the https://github.com/pcyin/pytorch_nmt repository
+Heavily inspired by https://arxiv.org/pdf/2105.13578.pdf
